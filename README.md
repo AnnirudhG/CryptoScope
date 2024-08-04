@@ -1,8 +1,8 @@
 # Cryptocurrency Tracker App
-A responsive Cryptocurrency Tracker built with React, Material UI, and Chart.js.
+A responsive Cryptocurrency Tracker Application built with ReactJS, Material UI, Chart.js, Context API.
 
 ## Overview
-CryptoTrack provides real-time data and historical charts for various cryptocurrencies. Built by Annirudh Gupta, this app offers a sleek, user-friendly interface to track your favorite digital assets.
+CryptoScope provides real-time data and historical charts for various cryptocurrencies. Built by Annirudh Gupta, this app offers a sleek, user-friendly interface to track your favorite digital assets.
 
 ## Features
 - Live price updates
